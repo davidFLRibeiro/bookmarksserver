@@ -1,0 +1,15 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Book with id 1 not found.","level":"error"}
+{"message":"Book with id 1 not found.","level":"error"}
+{"message":"Book with id 1 not found.","level":"error"}
+{"message":"Book with id 1 not found.","level":"error"}
+{"message":"Book with id 3e8d065d-fa2f-4f88-be06-0655491766d4 not found.","level":"error"}
+{"message":"Book with id 3e8d065d-fa2f-4f88-be06-0655491766d4 not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Book with id e15e2a97-6ab2-4e0e-a7a0-ff4356878b76 created","level":"info"}
+{"message":"Book with id 2d17df5c-a88f-419d-aa3d-0c36d3f54c42 created","level":"info"}
+{"message":"book with id 3e8d065d-fa2f-4f88-be06-0655491766d4 not found","level":"error"}
+{"message":"book with id 3e8d065d-fa2f-4f88-be06-0655491766d4 not found","level":"error"}
+{"message":"Bookmark with id 1 deleted.","level":"info"}
+{"message":"Book with id 469a60a4-5e3e-4817-a81f-3e7bf7ff4f8c created","level":"info"}
